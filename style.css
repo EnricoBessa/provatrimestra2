@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: justify;
+}
+body{
+    margin: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.header1 {
+  background-color: #EE82EE	;
+  height: 50px;
+  margin-top: 0px;
+  padding: 5px;
+}
+.header2 {
+    background-color: #6495ED	;
+    height: 50px;
+    margin-top: 0px;
+    padding: 5px;
+}
+.footer1 {
+  background-color: #EE82EE	;
+  height: 30px;
+  margin-top: 10px;
+  padding: 0%;
+}
+.footer2 {
+    background-color: #6495ED	;
+    height: 30px;
+    margin-top: 10px;
+    padding: 0%;
+  }
+.logo1 {
+    float: left;
+  height: 50px;
+}
+.banner1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.botao{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  
+}
